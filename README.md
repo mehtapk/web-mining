@@ -10,10 +10,9 @@ In this project, we will extract the data from [olympic](http://olympic.org) via
 ### Item Types:
 * Game, Link, Event, Sport, Country_gold, Country_silver, Country_bronze, Gold, Silver, Bronze
 
-### Item Fields:
 
 ### Link to Scraped:
 [Event Results](http://www.olympic.org/content/results-and-medalists/eventresultpagegeneral/)
 
-###Installation:
+
 

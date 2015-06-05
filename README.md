@@ -1,7 +1,7 @@
 # web-mining
 ### Names of Group Members and Their Responsibilities:
 * Abdullah Murat GÜÇ : Scrapy from website [Olympic](http://olympic.org)
-* Mehtap KARAKUŞ : Interface of results
+* Mehtap KARAKUŞ : Interface of results and graphs
 * Elif TÜRKAY : Graphs
 
 ### Description:
